@@ -31,10 +31,11 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/harshiniyu/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144979786/f0b960fc-f0a8-40a1-829a-667a391f0dbc)
+![WhatsApp Image 2024-05-06 at 15 33 48_cb35efea](https://github.com/harshiniyu/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144979786/d1164af4-e3b4-4a8a-9b80-6f829cb71c34)
+
 
 ### Output:
-![image](https://github.com/harshiniyu/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144979786/754dce71-5465-401b-9087-2cf16c2620a3)
+![WhatsApp Image 2024-05-06 at 15 34 00_f3d69876](https://github.com/harshiniyu/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144979786/72670dbf-02ab-49d7-bc72-de14f7340072)
 
 ### Name:HARSHINI Y
 ### Register Number:212223240050
